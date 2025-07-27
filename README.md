@@ -1,12 +1,10 @@
-# ⚛️ React Fundamentals Tutorial — Learn by Doing! 🚀
+# ⚛️ React Fundamentals — Learnt by Doing! 🚀
 
-Welcome to the **React Fundamentals Tutorial** — your hands-on guide to mastering the core concepts of React in a fun and practical way! 🎉
-
-This tutorial is built for **absolute beginners** and those who want a refresher. We’ll walk through all the **must-know concepts** that make React powerful and beginner-friendly.
+This repository contains small projects I built while learning React. Each app helped me grasp different core concepts of React such as components, state, props, and routing.
 
 ---
 
-## 📚 What You'll Learn
+## 📚 What I Learnt
 
 ✅ **React Basics**\
 ✅ **JSX & Components**\
@@ -26,10 +24,10 @@ react-tutorial/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   ├── pages/
+│   ├── routes/
 │   ├── App.js
-│   ├── index.js
-│   └── styles.css
+│   ├── main.jsx
+│   └── index.css
 ├── .gitignore
 ├── package.json
 └── README.md
@@ -66,31 +64,31 @@ The app will run on [**http://localhost:3000**](http://localhost:3000) 🚀
 
 ### ⚛️ Components
 
-> React components are the building blocks of your UI. You'll learn how to write **functional components** and structure your project cleanly.
+> React components are the building blocks of your UI. I learnt how to write **functional components** and structure your project cleanly.
 
 ---
 
 ### 📬 Props
 
-> Learn how to pass data between components using **props** and understand how components become truly reusable.
+> I learnt how to pass data between components using **props** and understand how components become truly reusable.
 
 ---
 
 ### 🧠 State
 
-> Understand how to **manage internal component data** using the `useState` hook.
+> I understood how to **manage internal component data** using the `useState` hook.
 
 ---
 
 ### 🔄 Conditional Rendering
 
-> Render content conditionally based on data and logic (e.g., toggle a UI, render lists, or show "No items found").
+> I rendered content conditionally based on data and logic (e.g., toggle a UI, render lists, or show "No items found").
 
 ---
 
 ### 🌍 Routing with `react-router-dom`
 
-> Learn to create single-page applications with **client-side routing**, using:
+> I learnt to create single-page applications with **client-side routing**, using:
 
 - `<BrowserRouter>`
 - `<Routes>` & `<Route>`
@@ -103,7 +101,7 @@ The app will run on [**http://localhost:3000**](http://localhost:3000) 🚀
 
 Try extending this project with:
 
-- A TODO app
+- A Simple Comment app
 - A blog post router
 - A user profile page using dynamic URL params
 
