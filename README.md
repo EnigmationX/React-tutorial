@@ -78,14 +78,14 @@ The app will run on [**http://localhost:3000**](http://localhost:3000) 🚀
 
 ### 🧠 State & Hooks
 
-> I understood how to use `useState`:used to manage internal component data (e.g., form input, toggle switches) &
->`useEffect`:**used to perform side effects like fetching data, updating the DOM, setting up subscriptions**
+> I understood how to use `useState` used to manage internal component data (e.g., form input, toggle switches) &
+>`useEffect` **used to perform side effects like fetching data, updating the DOM, setting up subscriptions**
 
 ---
 
 ### 🔄 Conditional Rendering
 
-> I rendered content conditionally based on data and logic (e.g., toggle a UI, render lists, or show "No items found").
+> I rendered content conditionally based on **data** and **logic** (e.g., toggle a UI, render lists, or show "No items found").
 
 ---
 ### 🚀 Data Fetching with `Fetch API`
