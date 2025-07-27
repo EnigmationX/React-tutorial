@@ -9,10 +9,12 @@ This repository contains small projects I built while learning React. Each app h
 ✅ **React Basics**\
 ✅ **JSX & Components**\
 ✅ **Props & State Management**\
+✅ **React Hooks**\
 ✅ **Conditional Rendering**\
 ✅ **React Router DOM**\
 ✅ **Dynamic Routing**\
-✅ **Component Reusability & Modularity**
+✅ **Component Reusability & Modularity**\
+✅ **Data Fetching**
 
 ---
 
@@ -74,15 +76,21 @@ The app will run on [**http://localhost:3000**](http://localhost:3000) 🚀
 
 ---
 
-### 🧠 State
+### 🧠 State & Hooks
 
-> I understood how to **manage internal component data** using the `useState` hook.
+> I understood how to use `useState`:used to manage internal component data (e.g., form input, toggle switches) &
+>`useEffect`:**used to perform side effects like fetching data, updating the DOM, setting up subscriptions**
 
 ---
 
 ### 🔄 Conditional Rendering
 
 > I rendered content conditionally based on data and logic (e.g., toggle a UI, render lists, or show "No items found").
+
+---
+### 🚀 Data Fetching with `Fetch API`
+
+> I used traditional in-built es6 `fetch api` retrieve data from a demo **node.js** backend api
 
 ---
 
